@@ -9,6 +9,6 @@ while(n!=0)
  r=r*10+s;
  n=n/10;
  }
- printf("%d",&s);
+ printf("%d",r);
  return 0;
  }
