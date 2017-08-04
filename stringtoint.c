@@ -7,6 +7,6 @@ scanf("%d",&n);
 for(i=0;i<1;i++)
  scanf("%c",&s[i]);
 for(i=0;i<n;i++)
- printf("%d",s[n]);
+ printf("%d",s[i]);
  return 0;
  }
